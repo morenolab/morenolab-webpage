@@ -111,7 +111,7 @@ For general questions or partnership proposals, please use the form below or con
 
   <button type="submit">Send Message</button>
 
-  <input type="hidden" name="_next" value="https://localhost:4000/thank-you">
+  <input type="hidden" name="_next" value="https://www.morenolab.org/thank-you">
 
 </form>
 
