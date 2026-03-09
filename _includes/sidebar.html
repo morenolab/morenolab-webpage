@@ -1,0 +1,20 @@
+<aside class="sidebar">
+  {% if site.social_links %}
+    <section class="sidebar-section">
+      <h3 class="sidebar-title">Connect & Support</h3>
+      <ul class="social-networks">
+        {% for link in site.social_links %}
+          <li class="social-link">
+            <a href="{{ link[1] }}" target="_blank" rel="noopener">
+              {% if link[0] == "Twitter" %}<i class="fab fa-twitter"></i>
+              {% elif link[0] == "GitHub" %}<i class="fab fa-github"></i>
+              {% elif link[0] == "LinkedIn" %}<i class="fab fa-linkedin"></i>
+              {% else %}<i class="fas fa-link"></i>{% endif %}
+              {{ link[0] }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endif %}
+</aside>

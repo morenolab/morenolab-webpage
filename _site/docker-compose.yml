@@ -1,0 +1,13 @@
+services:
+  jekyll:
+    image: ruby:3.2
+    working_dir: /srv/jekyll
+    volumes:
+      - .:/srv/jekyll
+      - vendor_data:/usr/local/bundle
+    ports:
+      - "4000:4000"
+    command: bash -c "bundle install && bundle exec jekyll serve --watch --force_polling --host 0.0.0.0"
+
+volumes:
+  vendor_data:

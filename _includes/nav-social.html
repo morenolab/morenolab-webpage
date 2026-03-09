@@ -1,0 +1,15 @@
+<nav class="nav  nav--social">
+  <ul class="list  list--inline">
+    {% for link in site.social_links %}
+      <li>
+        <a href="{{ link[1] }}" target="_blank" rel="noopener" title="{{ link[0] }}">
+          {% if link[0] == "Twitter" %}<i class="fab fa-twitter"></i>
+          {% elsif link[0] == "GitHub" %}<i class="fab fa-github"></i>
+          {% elsif link[0] == "LinkedIn" %}<i class="fab fa-linkedin"></i>
+          {% else %}<i class="fas fa-link"></i>{% endif %}
+          {{ link[0] }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>

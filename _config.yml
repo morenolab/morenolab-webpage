@@ -1,17 +1,141 @@
-# Site settings
-title: Human Population Genomics Lab
-header-img: img/home-bg_1750.jpg
-email: morenolab.langebio@gmail.com
-description: "About Us"
-baseurl: ""
-url: "www.morenolab.org"
-twitter_username: moreno_lab
-github_username:  
-facebook_username: MorenoLabLangebio
+# Site configuration
+# 1. Files excluded from Jekyll builds
+# 2. Installed Gems
+# 3. Gem settings
+# 4. Jekyll settings
+# 5. Collections
+# 6. Jekyll collections settings
+# 7. Site settings
+# 8. Site favicons & manifest icons
+# 9. Site navigation
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
-permalink: pretty
-paginate: 1
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","feed.xml"]
+# 1. Files excluded from Jekyll builds
+exclude:
+- README.md
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- screenshot.png
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+- alembic-jekyll-theme.gemspec
+- .jekyll-cache
+
+# 2. Installed Gems
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
+
+# 3. Gem settings
+paginate: 2 # jekyll-paginate > items per page
+paginate_path: blog/page:num # jekyll-paginate > blog page
+jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+twitter:
+  username: moreno_lab # Updated
+author: MorenoLab # Updated
+social: # jekyll-seo-tag > social overrides
+  name: Moreno Lab # Updated
+  links:  # jekyll-seo-tag > social aliases (sameAs)
+    - https://x.com/moreno_lab
+    - https://github.com/morenolab
+    - https://www.linkedin.com/company/moreno-lab/about/
+# markdown: CommonMark # Markdown parse settings
+
+# 4. Jekyll settings
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: # Marks end of excerpt in posts
+timezone: Europe/London # Timezone for blog posts and alike
+
+# 5. Collections
+collections:
+  posts:
+    title: Posts # Needed for Siteleaf
+    output: true
+    description: "My thoughts and ideas" # The post list page content
+    feature_text: |
+      Welcome to the blog
+    feature_image: "https://picsum.photos/2560/600?image=866"
+
+# 6. Jekyll collections settings
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image: "/assets/default-social-image.png" # Default image for sharing
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post # Set the default layout for posts
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page # Set the default layout for pages
+
+# 7. Site settings
+encoding: utf-8 # Make sure the encoding is right
+lang: en-GB # Set the site language
+title: "MorenoLab" # Site name or title
+logo: "/assets/logos/logo_moreno_home.png" # Site logo
+css_inline: true # Will insert all styles into a single <style> block
+
+# 8. Site favicons & manifest icons
+favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+  16: '/assets/logos/logo_moreno_small.png'
+  32: '/assets/logos/logo_moreno_small.png'
+  96: '/assets/logos/logo_moreno_small.png'
+  120: '/assets/logos/logo_moreno_small.png'
+  144: '/assets/logos/logo_moreno_small.png'
+  180: '/assets/logos/logo_moreno_small.png'
+  512: '/assets/logos/logo_moreno_small.png'
+  1024: '/assets/logos/logo_moreno_small.png'
+
+# 9. Site navigation
+navigation_header:
+- title: Home
+  url: /
+- title: Team
+  url: /team/
+- title: Projects
+  url: /projects/
+- title: News
+  url: /news/
+- title: Publications
+  url: /publications/
+- title: Contact
+  url: /contact/
+- title: MXBiobank
+  url: https://www.mxbiobank.org
+- title: MexVar
+  url: https://morenolab.shinyapps.io/mexvar/
+
+social_links: # Appears in sidebar.
+  Twitter: https://x.com/moreno_lab
+  GitHub: https://github.com/morenolab
+  LinkedIn: https://www.linkedin.com/company/moreno-lab/about/
+
+sharing_links: # Appear at the bottom of single blog posts
+  Twitter: "#0d94e7"
+  facebook: "#3B5998"
+  Email: true
+
+# Load custom fonts
+fonts:
+  preconnect_urls:
+    - https://fonts.gstatic.com
+  font_urls:
+    - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
