@@ -1,14 +1,36 @@
 <aside class="sidebar">
   {% if site.social_links %}
+    <section class="sidebar-section">
+      <h3 class="sidebar-title">Connect & Support</h3>
+      <ul class="social-networks">
+        {% for link in site.social_links %}
+          <li class="social-link">
+            <a href="{{ link[1] }}" target="_blank" rel="noopener noreferrer">
+              {% if link[0] == "Twitter" or link[0] == "X" %}
+                <i class="fab fa-twitter"></i>
+              {% elif link[0] == "GitHub" %}
+                <i class="fab fa-github"></i>
+              {% elif link[0] == "LinkedIn" %}
+                <i class="fab fa-linkedin"></i>
+              {% else %}
+                <i class="fas fa-link"></i>
+              {% endif %}
+              {{ link[0] }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+
     <section class="sidebar-section twitter-card">
       <h3 class="sidebar-title">Latest Updates</h3>
       <a class="twitter-timeline" 
-       data-height="500" 
-       data-chrome="nofooter noborders transparent" 
-       href="https://twitter.com/moreno_lab?ref_src=twsrc%5Etfw">
-       Tweets by @moreno_lab
-     </a> 
-   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-   </section>
+         data-height="500" 
+         data-chrome="nofooter noborders transparent" 
+         href="https://twitter.com/moreno_lab?ref_src=twsrc%5Etfw">
+         Tweets by @moreno_lab
+      </a> 
+      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </section>
   {% endif %}
 </aside>
