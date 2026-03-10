@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 permalink: /
 description: Human Evolutionary and Population Genomics
 image: /assets/images/home_banner.png
