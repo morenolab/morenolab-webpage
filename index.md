@@ -2,12 +2,8 @@
 layout: page
 permalink: /
 description: Human Evolutionary and Population Genomics
-image: /assets/images/home_banner.jpg
+image: /assets/images/home_banner.png
 ---
-
-<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;">
-  <img src="/assets/images/home_banner.png" alt="" style="width: 100%; height: auto; display: block;">
-</div>
 
 The Human Evolutionary and Population Genomics lab was established in Mexico back in 2015 and its primary research focus is human diversity and population genetics, applying genomic and computational tools to answer questions about human evolution, with particular interest in populations from the Americas and the Pacific.
 
