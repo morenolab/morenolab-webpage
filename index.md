@@ -44,3 +44,29 @@ Our research is supported by international and national funding agencies and con
 - [Wellcome Trust](https://wellcome.org/)
 - [Chan Zuckerberg Initiative](https://chanzuckerberg.com/)
 
+---
+
+## 🐦 Latest Laboratory Updates
+
+<div class="twitter-content-wrapper">
+  <a class="twitter-timeline" 
+     data-height="600" 
+     data-chrome="nofooter noborders" 
+     href="https://twitter.com/moreno_lab?ref_src=twsrc%5Etfw">
+     Tweets by @moreno_lab
+  </a> 
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+<style>
+  .twitter-content-wrapper {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 20px;
+    background: #ffffff;
+    border: 1px solid #eee; /* Matches your contact form border */
+    border-radius: 8px;    /* Matches your contact form corners */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  }
+</style>
+
