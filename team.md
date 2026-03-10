@@ -117,7 +117,7 @@ Outside the lab, I enjoy book clubs and theater, and spend a surprising amount o
     <div class="member-bio">
     I have a scientific interest in multiple things, but the PacBio and Illumina of it (pun intended) is that I am passionate about everything sequencing related, IT infrastructure and running experiments. I am currently working on the Latin Pangenome project, managing data and working with assemblies. I am in charge of Kexol, our HPC cluster, some of the lab's websites and general IT/wet lab stuff, working alongside Flor, the lab manager, to make sure that bits and tips are working as intended. 
     <br><br>
-    I got my PhD degree from CINVESTAV (Integrative Biology), and I've previously worked at Leiden University, the Naturalis Biodiversity Center and the private sector. On a personal note, I like sports and I support middle of the road teams such as the Arizona Cardinals, FC Bercelona and Arsenal FC. Also, my favorite writers are Borges, Rulfo, Woolf, Proust and Calvino.
+    I got my PhD degree from CINVESTAV (Integrative Biology), and I've previously worked at Leiden University, the Naturalis Biodiversity Center and the private sector. On a personal note, I like sports and I support middle of the road teams such as the Arizona Cardinals, FC Barcelona and Arsenal FC. Also, my favorite writers are Borges, Rulfo, Woolf, Proust and Calvino.
       <br><br>
       <a href="mailto:edder.bustos@cinvestav.mx">Email</a>
     </div>
