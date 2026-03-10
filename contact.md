@@ -132,9 +132,9 @@ We are always looking for motivated students (Undergraduate, MSc, and PhD) and P
 Stay updated with our latest publications, fieldwork, and lab news:
 
 <div class="social-container">
-  <a href="https://x.com/moreno_lab" class="social-button">X / Twitter</a>
-  <a href="https://github.com/morenolab" class="social-button">GitHub</a>
-  <a href="https://www.linkedin.com/company/human-population-genomics-moreno-lab" class="social-button">LinkedIn</a>
+  <a href="https://x.com/moreno_lab" class="social-button" target="_blank" rel="noopener noreferrer">X / Twitter</a>
+  <a href="https://github.com/morenolab" class="social-button" target="_blank" rel="noopener noreferrer">GitHub</a>
+  <a href="https://www.linkedin.com/company/human-population-genomics-moreno-lab" class="social-button" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </div>
 
 ---
