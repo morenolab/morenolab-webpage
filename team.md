@@ -97,6 +97,8 @@ I am a medical doctor and population geneticist deeply interested in molecular e
 </div>
 
 I am the Lab Manager at the Moreno Lab, where I support the coordination, organization, and day-to-day operations of the lab, contributing to the smooth development of research projects and collaborative activities. I have extensive experience in project management, institutional coordination, and international cooperation, with a strong background in human rights, gender, and public policy.
+I hold a Master’s degree in Human Rights, a specialization in Gender and Law, and undergraduate degrees in Law and International Relations. I have over 20 years of experience working across government institutions, international organizations, and civil society, including roles at the National Human Rights Commission of Mexico (CNDH), the National Institute for Women (Inmujeres), and the Ministry of Foreign Affairs (SRE).
+Outside the lab, I enjoy book clubs and theater, and spend a surprising amount of time trying to keep my plants alive.
 
 [Email](mailto:popgenlab@cinvestav.mx)
 
