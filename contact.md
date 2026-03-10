@@ -89,7 +89,7 @@ We welcome inquiries from researchers, students, and institutions worldwide. Whe
 
 ### 📩 Send us a Message
 
-For general questions or partnership proposals, please use the form below or contact us at [popgenlab@cinvestav.mx](mailto:popgenlab@cinvestav.mx).
+For general questions or partnership proposals, please use the form below or contact us at [morenolab.contact@gmail.com](morenolab.contact@gmail.com).
 
 <form action="https://formspree.io/f/xojkjzpo" method="POST" class="contact-form">
   <label for="full-name">Full Name</label>
