@@ -83,3 +83,18 @@ $width-content: 1200px;
 table {
   width: 100% !important;
 }
+
+.twitter-card {
+  margin-top: 1.5rem;
+  padding: 15px;
+  background: #ffffff;
+  border: 1px solid #eee; /* Matches the contact form border */
+  border-radius: 8px;    /* Matches the contact form corners */
+}
+
+.twitter-card .sidebar-title {
+  margin-bottom: 10px;
+  font-size: 1.1rem;
+  border-bottom: 1px solid #eee; /* Matches the lab-section divider */
+  padding-bottom: 5px;
+}
