@@ -21,7 +21,7 @@ order: 2
   /* 2. Create the 2-column grid */
   .team-grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 40px 60px;
     align-items: start;
   }
