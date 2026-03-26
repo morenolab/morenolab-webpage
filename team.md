@@ -101,7 +101,7 @@ order: 2
   <h2 style="margin: 0; border-bottom: none;">Andrés Moreno Estrada</h2>
 </div>
 
-I am a medical doctor and population geneticist deeply interested in molecular evolution and its implications in human population history and medical genomics. During my PhD I was trained in evolutionary and population genetics, which complemented my previous medical background. As a postdoctoral fellow with Dr. Carlos Bustamante and research associate at Stanford University, my work integrated genomics, evolution and precision medicine in many different projects involving large collections of populations, in particular from the Americas and the Pacific. Our group is interested in human evolution, adaptation, and population history as well as the biomedical implications of human genetic diversity in underserved populations of the world.
+I am a medical doctor and population geneticist whose work integrates genomics, evolution, and precision medicine. Our group focuses on human evolution, adaptation, and population history, alongside the biomedical implications of genetic diversity in underserved populations across the Americas and the Pacific.
 
 [Email](mailto:popgenlab@cinvestav.mx) · [Twitter](https://twitter.com/morestrada) · [Google Scholar](https://scholar.google.com.mx/citations?user=e8sFFesAAAAJ&hl=en)
 
@@ -113,9 +113,7 @@ I am a medical doctor and population geneticist deeply interested in molecular e
   <h2 style="margin: 0; border-bottom: none;">Flor Montes de Oca</h2>
 </div>
 
-I am the Lab Manager at the Moreno Lab, where I support the coordination, organization, and day-to-day operations of the lab, contributing to the smooth development of research projects and collaborative activities. I have extensive experience in project management, institutional coordination, and international cooperation, with a strong background in human rights, gender, and public policy.
-I hold a Master’s degree in Human Rights, a specialization in Gender and Law, and undergraduate degrees in Law and International Relations. I have over 20 years of experience working across government institutions, international organizations, and civil society, including roles at the National Human Rights Commission of Mexico (CNDH), the National Institute for Women (Inmujeres), and the Ministry of Foreign Affairs (SRE).
-Outside the lab, I enjoy book clubs and theater, and spend a surprising amount of time trying to keep my plants alive.
+I am the Lab Manager at the Moreno Lab, overseeing coordination and day-to-day operations to ensure smooth research development. I hold a Master’s degree in Human Rights and bring over 20 years of project management and institutional coordination experience across government and international organizations.
 
 [Email](mailto:popgenlab@cinvestav.mx)
 
@@ -132,9 +130,7 @@ Outside the lab, I enjoy book clubs and theater, and spend a surprising amount o
       <h2>Edder Daniel Bustos Diaz</h2>
     </div>
     <div class="member-bio">
-    I have a scientific interest in multiple things, but the PacBio and Illumina of it (pun intended) is that I am passionate about everything sequencing related, IT infrastructure and running experiments. I am currently working on the Latin Pangenome project, managing data and working with assemblies. I am in charge of Kexol, our HPC cluster, some of the lab's websites and general IT/wet lab stuff, working alongside Flor, the lab manager, to make sure that bits and tips are working as intended. 
-    <br><br>
-    I got my PhD degree from CINVESTAV (Integrative Biology), and I've previously worked at Leiden University, the Naturalis Biodiversity Center and the private sector. On a personal note, I like sports and I support middle of the road teams such as the Arizona Cardinals, FC Barcelona and Arsenal FC. Also, my favorite writers are Borges, Rulfo, Woolf, Proust and Calvino.
+      I manage the lab's IT infrastructure, the Kexol HPC cluster, and sequencing experiments. My current work focuses on data management and assemblies for the Latin Pangenome project.
       <br><br>
       <a href="mailto:edder.bustos@cinvestav.mx">Email</a>
     </div>
@@ -146,9 +142,7 @@ Outside the lab, I enjoy book clubs and theater, and spend a surprising amount o
       <h2>José Antonio Corona-Gomez (Josian)</h2>
     </div>
     <div class="member-bio">
-    I am a Biologist with a PhD in Biotechnology, specialized in bioinformatics and genomic data analysis. My research career has focused on gene expression analysis, comparative genomics, and the integration of high-dimensional molecular datasets. Currently, I am a postdoctoral researcher at Cinvestav in the Moreno Lab and lead Bioinformatics Research for LatinCells, an international initiative funded by the Chan Zuckerberg Initiative. LatinCells aims to map single-cell gene expression diversity across Indigenous and underrepresented populations in Latin America.
-    <br><br>
-	My current research focuses on the analysis of single-cell RNA sequencing data from Latin American communities. I study how genetic background, particularly Native American ancestry influences immune cell composition and gene expression patterns. By integrating population genetics with single-cell transcriptomics, I aim to better understand how ancestry-related genomic variation shapes cellular phenotypes and immune diversity in the region.
+      I am a bioinformatician leading Bioinformatics Research for LatinCells. I analyze single-cell RNA sequencing data to study how Native American ancestry influences immune cell composition and gene expression patterns in Latin American communities.
       <br><br>
       <a href="mailto:jose.corona@cinvestav.mx">Email</a> · <a href="https://x.com/JAntonioCorona">Twitter</a>
     </div>
@@ -160,9 +154,7 @@ Outside the lab, I enjoy book clubs and theater, and spend a surprising amount o
       <h2>Diego Hartasánchez</h2>
     </div>
     <div class="member-bio">
-    I am a physicist, turned evolutionary biologist. I have been involved in modeling evolutionary phenomena, exploring with computer simulations, and analyzing comparative genomic data in diverse organisms. I completed a PhD in the Universitat Pompeu Fabra in Barcelona in 2016, and have, since then, been a postdoctoral researcher at the Université Claude Bernard Lyon 1, then at the École Normale Supérieure de Lyon, and until recently, at the Université de Lausanne. The focus of my research has changed throughout these years, from the evolution of recombination, to gene expression in flower morphogenesis, to structural variation in clownfish.
-    <br><br>
-    As part of the Human Evolutionary Population Genomics Group, I will be involved in several projects. After many years abroad, I am very excited to be back in my home megalopolis, hoping to contribute to the understanding of evolutionary history and diversity of Latin American populations. Beyond my strict academic work, I participate in initiatives searching for alternative structures and paths within the current academic system. In my spare time, I like to enjoy the present with family and friends, outdoors, hiking or biking. I appreciate dark coffee a lot, many times a day, but nothing beats a cold beer under the warm sun after some sport.
+      I am a physicist turned evolutionary biologist focused on modeling evolutionary phenomena and analyzing comparative genomic data. My work contributes to understanding the evolutionary history and diversity of Latin American populations.
       <br><br>
       <a href="mailto:diegoharta@gmail.com">Email</a> · <a href="https://scholar.google.com/citations?user=qztY5fAAAAAJ&hl=en">Google Scholar</a>
     </div>
@@ -174,10 +166,7 @@ Outside the lab, I enjoy book clubs and theater, and spend a surprising amount o
       <h2>Marisol Naydú Espitia Fajardo</h2>
     </div>
     <div class="member-bio">
-    I am a biologist with a Master's and Doctorate in Biological Sciences from the Universidad del Valle, Colombia. I am passionate about population genetics and the study of human genomic diversity. My academic training has focused on the analysis of genetic diversity and population structure in indigenous communities in Colombia, with the aim of understanding their demographic dynamics and evolutionary relationships with other Amerindian populations.
-    <br><br>
-    I am currently working as a postdoctoral researcher in Dr. Moreno's lab, where I am delving into the development and application of high-resolution bioinformatics and genomic tools for the study of human diversity in Latin America. My work integrates whole genome analysis, demographic inference, and population genetics approaches to contribute to a more inclusive understanding of genetic variation in historically underrepresented populations.
-    Outside of science, I enjoy swimming in the afternoons, listening to music while solving puzzles or Sudoku, reading romance novels, and spending time with my family and friends.
+      I am a biologist specializing in the genetic diversity and population structure of indigenous communities. I develop and apply high-resolution bioinformatics tools to perform demographic inference and whole-genome analysis for underrepresented populations.
       <br><br>
       <a href="mailto:marisol.espitia@cinvestav.mx">Email</a> · <a href="https://x.com/Marisolbiologie">Twitter</a>
     </div>
@@ -189,10 +178,8 @@ Outside the lab, I enjoy book clubs and theater, and spend a surprising amount o
       <h2>Consuelo Dayzú Quinto Cortés</h2>
     </div>
     <div class="member-bio">
-    I am human population genomicist with a PhD in Genetics from the University of Arizona. I have always been passionate about human history, population genetics, and programming. I am currently the project manager of the project ‘A Latin American pangenome for mapping structural variation of medical relevance in underrepresented indigenous ancestries’, funded by the Wellcome Trust Institute.
-    <br><br>
-    Outside the lab, I enjoy lettering, coloring, reading, candle making, practicing yoga and taking my dog Luna for walks.  
-    <br><br>
+      I am a human population genomicist and the project manager for the Wellcome Trust-funded Latin American Pangenome project, which maps structural variation of medical relevance in underrepresented indigenous ancestries.
+      <br><br>
       <a href="mailto:consuelo.quinto@cinvestav.mx">Email</a> · <a href="https://scholar.google.com/citations?user=qJvrhPoAAAAJ&hl=es&oi=ao">Google Scholar</a>
     </div>
   </div>
@@ -203,10 +190,8 @@ Outside the lab, I enjoy book clubs and theater, and spend a surprising amount o
       <h2>Camila Tamburrini</h2>
     </div>
     <div class="member-bio">
-    I am a bioanthropologist graduated from the University of Buenos Aires (UBA), Argentina. During my PhD, I investigated genetic variation among ancient hunter-gatherer populations that inhabited central Patagonia during the Holocene, always approaching the associated communities with respect for their cultural and spiritual heritage. From the early stages of my career, I have had a keen interest in forensic genetics. I believe that methodological advancements in ancient DNA research hold significant potential for application in the forensic field. I am passionate about furthering my academic training at the intersection of these two disciplines.
-    <br><br>
-    I joined Moreno’s Lab team in 2024, intending to advance my bioinformatics skills and support my colleagues with their projects. During my free time I like learning about music, chess and swimming.
-    <br><br>
+      I am a bioanthropologist interested in the intersection of ancient DNA research and forensic genetics. My research focuses on investigating genetic variation among ancient hunter-gatherer populations from Patagonia.
+      <br><br>
       <a href="mailto:camila.tamburrini@cinvestav.mx">Email</a> · <a href="https://x.com/camitamburrini">Twitter</a>
     </div>
   </div>
@@ -227,7 +212,7 @@ Outside the lab, I enjoy book clubs and theater, and spend a surprising amount o
       <h2>Carmina Barberena-Jonas</h2>
     </div>
     <div class="member-bio">
-    I'm a PhD candidate at Cinvestav and I’m a graduate from the Undergraduate Program on Genomic Sciences from the National Autonomous University of Mexico (UNAM). My current project in MorenoLab involves the analysis of identity-by-descent genomic segments to determine the population structure of Mexico and their implications in biomedical traits using the data from the Mexican BioBank (MXB). I’m developing the tool MexVar to explore and query the MXB biomedical data. I am also involved in other projects such as the Oceanian Genome Variation Project and LatinCells. I like photography, surrealist paintings, and camping. I have two lovable, super-smart, albino rats named Genevieve and Rosalind. 
+      I analyze identity-by-descent genomic segments to determine Mexico's population structure and its biomedical implications. I am also developing the MexVar tool to explore biomedical data from the Mexican BioBank (MXB).
       <br><br>
       <a href="mailto:carmina.barberena@cinvestav.mx">Email</a> · <a href="https://x.com/BarjonCar">Twitter</a> · <a href="https://scholar.google.com/citations?user=W39_jzcAAAAJ&hl=es">Google Scholar</a>
     </div>
@@ -239,9 +224,7 @@ Outside the lab, I enjoy book clubs and theater, and spend a surprising amount o
       <h2>Maria Fernanda Elias Navarro</h2>
     </div>
     <div class="member-bio">
-      I am a biologist interested in the evolution of species and population genomics. During my PhD, I have been primarily working with ancient DNA. My research brings together paleogenomics and archaeology to explore the histories of past populations through ancient DNA recovered from skeletal remains, with a particular focus on Teotihuacan, one of the most influential political, economic, and cultural centers of ancient Mesoamerica. By investigating genetic affinities, biological sex, and kinship, I aim to better understand social organization, mobility, and population diversity, contributing to a deeper reconstruction of Mexico’s past. 
-      <br><br>
-      More broadly, I am interested in studying genetic variation across species from both evolutionary and conservation perspectives. Outside of research, I enjoy watching horror movies (and films in general), exploring local art, collecting plants, and reading books from feminist and women-centered perspectives. I love animals in general, but I have a soft spot for dogs, especially my own, Manolo. I also enjoy playing volleyball, which I find very relaxing.
+      My research integrates paleogenomics and archaeology to explore the histories of past populations. I specifically focus on ancient DNA recovered from skeletal remains at Teotihuacan to understand social organization and diversity.
       <br><br>
       <a href="mailto:maria.eliasn@cinvestav.mx">Email</a> · <a href="https://x.com/fherelias04">Twitter</a>
     </div>
@@ -253,9 +236,7 @@ Outside the lab, I enjoy book clubs and theater, and spend a surprising amount o
       <h2>Aarón E. Jaime</h2>
     </div>
     <div class="member-bio">
-      I'm a first year PhD student interested in computational human genomics. During my master's I contributed bioinformatically to map an immune atlas using single-cell transcriptomics (LatinCells). However, I have also been involved in microbiome and science outreach projects. Since 2023. I’ve been an active member of RSG-México (ISCB), a platform that brings people closer to computational biology, enabling them to use it as a tool for work and communication.
-     <br><br>
-      Currently, my research focuses on describing novel ageing-associated DNA methylation patterns in Latin American populations using long-read sequencing kinetics (LatinGenomes). Perfect plan? Hiking and plant shopping.
+      I am interested in computational human genomics. My current research uses long-read sequencing kinetics to describe novel ageing-associated DNA methylation patterns in Latin American populations for the LatinGenomes project.
       <br><br>
       <a href="mailto:aaron.espinosa@cinvestav.mx">Email</a>
     </div>
@@ -267,7 +248,7 @@ Outside the lab, I enjoy book clubs and theater, and spend a surprising amount o
       <h2>Ram González Buenfil</h2>
     </div>
     <div class="member-bio">
-      I am a computational biologist with a strong interest in genetics and evolution. My research focuses on understanding how natural selection has shaped human populations from Latin America and Oceania. I work at the intersection of population genomics, evolutionary theory, anthropology, and data science, with a particular emphasis on genetic diversity, admixture, and local adaptation. Outside of work, I enjoy learning about design, traveling, and spending time outdoors.
+      I am a computational biologist working at the intersection of population genomics and evolutionary theory. My research investigates how natural selection, admixture, and local adaptation have shaped populations in Latin America and Oceania.
       <br><br>
       <a href="mailto:ram.gonzalez@cinvestav.mx">Email</a> · <a href="https://twitter.com/ramgonzalezb">Twitter</a>
     </div>
@@ -279,7 +260,7 @@ Outside the lab, I enjoy book clubs and theater, and spend a surprising amount o
       <h2>Santiago Medina</h2>
     </div>
     <div class="member-bio">
-      I am a computational biologist with a degree in Agro-genomic Sciences at UNAM. My research passion lies in evolutionary genetics, with a focus on understanding population history and migration dynamics in Indigenous populations from Mexico. Outside of my academic work, I enjoy spending time with friends and exploring nature through hiking or gravel biking. These days, I heroically attempt to finish my PhD.
+      I am a computational biologist focused on evolutionary genetics. My research aims to understand population history and migration dynamics in Indigenous populations from Mexico.
       <br><br>
       <a href="mailto:santiago.medina@cinvestav.mx">Email</a> · <a href="https://scholar.google.com/citations?user=XW3Sz1kAAAAK&hl=es&oi=ao">Google Scholar</a>
     </div>
@@ -291,7 +272,7 @@ Outside the lab, I enjoy book clubs and theater, and spend a surprising amount o
       <h2>Daniela Orozco</h2>
     </div>
     <div class="member-bio">
-      I’m Daniela Orozco, currently finishing my PhD in ancient DNA research. I studied Genomic Sciences at UNAM, where I first developed my long-standing fascination with evolution. My current project focuses on Cañada de la Virgen, an archaeological site in Mexico, where I study the genetic history of elite individuals buried there. In the lab, I love turning complex data into clear stories through maps and plots—data visualization is definitely my happy place. Outside of research, you’ll find me watching films (and logging them religiously on Letterboxd), hanging out with friends, spoiling my cat Pato, or out on my bike—road cycling has recently become one of my favorite ways to disconnect and recharge.
+      My ancient DNA research focuses on the genetic history of elite individuals buried at the Cañada de la Virgen archaeological site in Mexico. I specialize in turning complex data into clear stories through maps and data visualization.
       <br><br>
       <a href="mailto:daniela.orozco@cinvestav.mx">Email</a>
     </div>
@@ -303,8 +284,7 @@ Outside the lab, I enjoy book clubs and theater, and spend a surprising amount o
       <h2>Octavio Zambada Moreno</h2>
     </div>
     <div class="member-bio">
-      I am a genomic biotechnologist interested in transcriptomics, gene regulation, and systems biology, integrating both bioinformatics and wet-lab approaches. Integrating multi-omics data to better understand and explain complex biological systems is something I am passionate about. For my PhD project, I study immune cell variation in Indigenous Latin American populations by combining single-cell transcriptomics, population genomics, and computational modeling. Through these approaches, I aim to characterize how genetic background influences gene expression programs and immune responses. 
-      Outside of research, I enjoy video and board games, volleyball, and discovering and learning about foods and cuisines from around the world.
+      I am a genomic biotechnologist characterizing immune cell variation in Indigenous Latin American populations. I combine single-cell transcriptomics, population genomics, and computational modeling to see how genetic background influences immune responses.
       <br><br>
       <a href="mailto:octavio.zambadam@cinvestav.mx">Email</a> · <a href="https://x.com/Octavirus23">Twitter</a>
     </div>
@@ -323,10 +303,10 @@ Outside the lab, I enjoy book clubs and theater, and spend a surprising amount o
   <div class="member-card">
     <div class="member-header">
       <img src="/assets/images/team/Yuberlis.png" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
-      <h2>Yuberlis González Ipuana:</h2>
+      <h2>Yuberlis González Ipuana</h2>
     </div>
     <div class="member-bio">
-      I am a Colombian biologist and proudly a Wayuu indigenous woman from the Upper Guajira region. I graduated from the University of Magdalena and am currently completing my Master of Science degree in Biology at the University of Valle. My work focuses on population genetics and the study of diversity and genetic kinship among indigenous peoples of Colombia, with the aim of contributing to the recognition of our biological and cultural diversity. I recently completed an academic residency in Dr. Moreno's laboratory, strengthening my skills in genetic analysis and population genetics approaches. As a young indigenous woman, I am committed to contributing to science without losing touch with my roots, always remembering my parents' advice: "Wherever you go, never forget to return to your territory and never forget your roots."
+      I am a Wayuu indigenous biologist from Colombia. My work focuses on population genetics and the study of diversity and genetic kinship among indigenous peoples of Colombia to help recognize our biological and cultural diversity.
       <br><br>
       <a href="mailto:gonzayube16@gmail.com">Email</a>
     </div>
@@ -338,7 +318,8 @@ Outside the lab, I enjoy book clubs and theater, and spend a surprising amount o
       <h2>Ricardo Rodríguez Ojeda</h2>
     </div>
     <div class="member-bio">
-      I am a Pharmaceutical Chemist Biologist from the University of Guanajuato and a third-semester Master’s student in Integrative Biology. I am currently part of Moreno’s Lab, where I specialize in computational biology and human population genomics. My research focuses on admixture processes in Mexico, aiming to understand the genetic complexity of Mexican populations by analyzing genomic data to explore demographic history, migration patterns, and the genetic impact of colonization that have shaped contemporary Mexican genetics. Outside of research, I enjoy reading, swimming, exercising, and listening to music.<br><br>
+      I specialize in computational biology and human population genomics. I analyze genomic data to explore demographic history and the genetic impact of colonization and admixture processes in modern Mexican populations.
+      <br><br>
       <a href="mailto:ricardo.rodriguez.o@cinvestav.mx">Email</a>
     </div>
   </div>
@@ -359,7 +340,7 @@ Outside the lab, I enjoy book clubs and theater, and spend a surprising amount o
       <h2>Viankail Cedillo Castelán</h2>
     </div>
     <div class="member-bio">
-      I am a data scientist passionate about genomics, biomedical data, and building tools that make complex science more intuitive and accessible. In the lab, I work on developing interactive Shiny applications and an AI-powered virtual assistant to explore population-genetic data, with a particular interest in underrepresented populations. I really enjoy data visualization, UX-oriented design, and finding ways to translate advanced computational methods into tools that researchers and clinicians can actually use. Outside the lab, you’ll probably find me enjoying quiet walks in the park, reading a book, or watching the sky or the blue sea. I also love outdoor sports, traveling, and experimenting with new healthy recipes.
+      I am a data scientist focused on biomedical data visualization and UX-oriented design. I develop interactive Shiny applications and AI-powered virtual assistants to translate complex population-genetic data into accessible tools for researchers and clinicians.
       <br><br>
       <a href="mailto:viancastelan.edu@gmail.com">Email</a>
     </div>
