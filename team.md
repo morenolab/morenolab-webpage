@@ -18,7 +18,7 @@ order: 2
     margin-bottom: 60px;
   }
 
-  /* 2. Create the 2-column grid */
+  /* 2. Create the 3-column grid */
   .team-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -64,8 +64,25 @@ order: 2
     color: #444;
   }
 
-  /* 4. Responsive: switch to 1 column on smaller screens */
-  @media (max-width: 1000px) {
+  /* Variante: 2 columnas (Masters Students) */
+  .team-grid--two {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  /* Variante: centrado (Data Scientist) */
+  .team-grid--centered {
+    grid-template-columns: minmax(0, 400px);
+    justify-content: center;
+  }
+
+  /* 4. Responsive: 2 columnas en pantallas medianas, 1 en pequeñas */
+  @media (max-width: 1200px) {
+    .team-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 700px) {
     .team-section {
       width: 100%;
       left: 0;
@@ -301,7 +318,7 @@ Outside the lab, I enjoy book clubs and theater, and spend a surprising amount o
 ## Masters Students
 
 <div class="team-section">
-<div class="team-grid">
+<div class="team-grid team-grid--two">
 
   <div class="member-card">
     <div class="member-header">
@@ -334,7 +351,7 @@ Outside the lab, I enjoy book clubs and theater, and spend a surprising amount o
 ## Data Scientist
 
 <div class="team-section">
-<div class="team-grid">
+<div class="team-grid team-grid--centered">
 
   <div class="member-card">
     <div class="member-header">
