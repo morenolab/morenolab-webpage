@@ -295,7 +295,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
   </div>
 
 </div>
-
+</div>
 ---
 
 ## Masters Students
