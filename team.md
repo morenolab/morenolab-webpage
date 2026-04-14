@@ -126,6 +126,18 @@ I am the Lab Manager at the Moreno Lab, overseeing coordination and day-to-day o
 
   <div class="member-card">
     <div class="member-header">
+      <img src="/assets/images/team/Carmina.png" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <h2>Carmina Barberena-Jonas</h2>
+    </div>
+    <div class="member-bio">
+      I analyze identity-by-descent genomic segments to determine Mexico's population structure and its biomedical implications. I am also developing the MexVar tool to explore biomedical data from the Mexican BioBank (MXB).
+      <br><br>
+      <a href="mailto:carmina.barberena@cinvestav.mx">Email</a> · <a href="https://x.com/BarjonCar">Twitter</a> · <a href="https://scholar.google.com/citations?user=W39_jzcAAAAJ&hl=es">Google Scholar</a>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="member-header">
       <img src="/assets/images/team/Daniel.jpeg" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
       <h2>Edder Daniel Bustos Diaz</h2>
     </div>
@@ -205,18 +217,6 @@ I am the Lab Manager at the Moreno Lab, overseeing coordination and day-to-day o
 
 <div class="team-section">
 <div class="team-grid">
-
-  <div class="member-card">
-    <div class="member-header">
-      <img src="/assets/images/team/Carmina.png" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
-      <h2>Carmina Barberena-Jonas</h2>
-    </div>
-    <div class="member-bio">
-      I analyze identity-by-descent genomic segments to determine Mexico's population structure and its biomedical implications. I am also developing the MexVar tool to explore biomedical data from the Mexican BioBank (MXB).
-      <br><br>
-      <a href="mailto:carmina.barberena@cinvestav.mx">Email</a> · <a href="https://x.com/BarjonCar">Twitter</a> · <a href="https://scholar.google.com/citations?user=W39_jzcAAAAJ&hl=es">Google Scholar</a>
-    </div>
-  </div>
 
   <div class="member-card">
     <div class="member-header">
