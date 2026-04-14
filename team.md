@@ -130,8 +130,8 @@ I am the Lab Manager at the Moreno Lab, overseeing coordination and day-to-day o
       <h2>Carmina Barberena-Jonas</h2>
     </div>
     <div class="member-bio">
-      I analyze identity-by-descent genomic segments to determine Mexico's population structure and its biomedical implications. I am also developing the MexVar tool to explore biomedical data from the Mexican BioBank (MXB).
-      <br><br>
+    My current project in MorenoLab involves the analysis of identity-by-descent genomic segments to determine the population structure of Mexico and their implications in biomedical traits using the data from the Mexican BioBank (MXB). I’m developing the tool MexVar to explore and query the MXB biomedical data. I am also involved in other projects such as the Oceanian Genome Variation Project and LatinCells.
+    <br><br>
       <a href="mailto:carmina.barberena@cinvestav.mx">Email</a> · <a href="https://x.com/BarjonCar">Twitter</a> · <a href="https://scholar.google.com/citations?user=W39_jzcAAAAJ&hl=es">Google Scholar</a>
     </div>
   </div>
