@@ -154,7 +154,8 @@ I am the Lab Manager at the Moreno Lab, overseeing coordination and day-to-day o
       <h2>José Antonio Corona-Gomez (Josian)</h2>
     </div>
     <div class="member-bio">
-    I am a Biologist with a PhD in Biotechnology, specialized in bioinformatics and genomic data analysis, with a focus on gene expression, comparative genomics, and high-dimensional molecular datasets. I lead Bioinformatics Research for LatinCells, a Chan Zuckerberg Initiative-funded project mapping single-cell gene expression diversity across Indigenous and underrepresented populations in Latin America. My work combines single-cell RNA sequencing with population genetics to understand how Native American ancestry shapes immune cell composition and gene expression patterns — contributing to a more inclusive and representative picture of human biological diversity.
+    I lead Bioinformatics Research for LatinCells, an international initiative funded by the Chan Zuckerberg Initiative. LatinCells aims to map single-cell gene expression diversity across Indigenous and underrepresented populations in Latin America.
+    My current research focuses on the analysis of single-cell RNA sequencing data from Latin American communities. I study how genetic background, particularly Native American ancestry influences immune cell composition and gene expression patterns. By integrating population genetics with single-cell transcriptomics, I aim to better understand how ancestry-related genomic variation shapes cellular phenotypes and immune diversity in the region.
     <br><br>
       <a href="mailto:jose.corona@cinvestav.mx">Email</a> · <a href="https://x.com/JAntonioCorona">Twitter</a>
     </div>
