@@ -282,12 +282,13 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
     </div>
   </div>
 
-  <div class="member-card">
+<div class="member-card">
     <div class="member-header">
       <img src="/assets/images/team/Octavio.png" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
       <h2>Octavio Zambada Moreno</h2>
     </div>
-    I am a genomic biotechnologist interested in transcriptomics, gene regulation, and systems biology, integrating both bioinformatics and wet-lab approaches. For my PhD project, I study immune cell variation in Indigenous Latin American populations by combining single-cell transcriptomics, population genomics, and computational modeling. Through these approaches, I aim to characterize how genetic background influences gene expression programs and immune responses. 
+    <div class="member-bio">
+      I am a genomic biotechnologist interested in transcriptomics, gene regulation, and systems biology, integrating both bioinformatics and wet-lab approaches. For my PhD project, I study immune cell variation in Indigenous Latin American populations by combining single-cell transcriptomics, population genomics, and computational modeling.
       <br><br>
       <a href="mailto:octavio.zambadam@cinvestav.mx">Email</a> · <a href="https://x.com/Octavirus23">Twitter</a>
     </div>
