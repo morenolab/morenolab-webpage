@@ -287,7 +287,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
       <img src="/assets/images/team/Octavio.png" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
       <h2>Octavio Zambada Moreno</h2>
     </div>
-    I am a genomic biotechnologist interested in transcriptomics, gene regulation, and systems biology, integrating both bioinformatics and wet-lab approaches. Integrating multi-omics data to better understand and explain complex biological systems is something I am passionate about. For my PhD project, I study immune cell variation in Indigenous Latin American populations by combining single-cell transcriptomics, population genomics, and computational modeling. Through these approaches, I aim to characterize how genetic background influences gene expression programs and immune responses. 
+    I am a genomic biotechnologist interested in transcriptomics, gene regulation, and systems biology, integrating both bioinformatics and wet-lab approaches. For my PhD project, I study immune cell variation in Indigenous Latin American populations by combining single-cell transcriptomics, population genomics, and computational modeling. Through these approaches, I aim to characterize how genetic background influences gene expression programs and immune responses. 
       <br><br>
       <a href="mailto:octavio.zambadam@cinvestav.mx">Email</a> · <a href="https://x.com/Octavirus23">Twitter</a>
     </div>
@@ -309,7 +309,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
       <h2>Yuberlis González Ipuana</h2>
     </div>
     <div class="member-bio">
-      I am a Wayuu indigenous biologist from Colombia. My work focuses on population genetics and the study of diversity and genetic kinship among indigenous peoples of Colombia to help recognize our biological and cultural diversity.
+      I am a Colombian biologist and proudly a Wayuu indigenous woman from the Upper Guajira region. I graduated from the University of Magdalena and am currently completing my Master of Science degree in Biology at the University of Valle. My work focuses on population genetics and the study of diversity and genetic kinship among indigenous peoples of Colombia, with the aim of contributing to the recognition of our biological and cultural diversity. 
       <br><br>
       <a href="mailto:gonzayube16@gmail.com">Email</a>
     </div>
@@ -321,7 +321,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
       <h2>Ricardo Rodríguez Ojeda</h2>
     </div>
     <div class="member-bio">
-      I specialize in computational biology and human population genomics. I analyze genomic data to explore demographic history and the genetic impact of colonization and admixture processes in modern Mexican populations.
+    I specialize in computational biology and human population genomics. My research focuses on admixture processes in Mexico, aiming to understand the genetic complexity of Mexican populations by analyzing genomic data to explore demographic history, migration patterns, and the genetic impact of colonization that have shaped contemporary Mexican genetics. 
       <br><br>
       <a href="mailto:ricardo.rodriguez.o@cinvestav.mx">Email</a>
     </div>
@@ -343,7 +343,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
       <h2>Viankail Cedillo Castelán</h2>
     </div>
     <div class="member-bio">
-      I am a data scientist focused on biomedical data visualization and UX-oriented design. I develop interactive Shiny applications and AI-powered virtual assistants to translate complex population-genetic data into accessible tools for researchers and clinicians.
+    I work on developing interactive Shiny applications and an AI-powered virtual assistant to explore population-genetic data, with a particular interest in underrepresented populations. I really enjoy data visualization, UX-oriented design, and finding ways to translate advanced computational methods into tools that researchers and clinicians can actually use.
       <br><br>
       <a href="mailto:viancastelan.edu@gmail.com">Email</a>
     </div>
