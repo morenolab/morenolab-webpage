@@ -193,7 +193,7 @@ I am the Lab Manager at the Moreno Lab, overseeing coordination and day-to-day o
       <h2>Consuelo Dayzú Quinto Cortés</h2>
     </div>
     <div class="member-bio">
-      I am a human population genomicist and the project manager for the Wellcome Trust-funded Latin American Pangenome project, which maps structural variation of medical relevance in underrepresented indigenous ancestries.
+      I am human population genomicist with a PhD in Genetics from the University of Arizona. I have always been passionate about human history, population genetics, and programming. I am currently the project manager of the project ‘A Latin American pangenome for mapping structural variation of medical relevance in underrepresented indigenous ancestries’, funded by the Wellcome Trust Institute.
       <br><br>
       <a href="mailto:consuelo.quinto@cinvestav.mx">Email</a> · <a href="https://scholar.google.com/citations?user=qJvrhPoAAAAJ&hl=es&oi=ao">Google Scholar</a>
     </div>
@@ -205,7 +205,7 @@ I am the Lab Manager at the Moreno Lab, overseeing coordination and day-to-day o
       <h2>Camila Tamburrini</h2>
     </div>
     <div class="member-bio">
-      I am a bioanthropologist interested in the intersection of ancient DNA research and forensic genetics. My research focuses on investigating genetic variation among ancient hunter-gatherer populations from Patagonia.
+      I am a bioanthropologist graduated from the University of Buenos Aires, Argentina. During my PhD, I investigated genetic variation among ancient hunter-gatherer populations that inhabited central Patagonia during the Holocene, always approaching the associated communities with respect for their cultural and spiritual heritage. From the early stages of my career, I have had a keen interest in forensic genetics. I believe that methodological advancements in ancient DNA research hold significant potential for application in the forensic field. I am passionate about furthering my academic training at the intersection of these two disciplines.
       <br><br>
       <a href="mailto:camila.tamburrini@cinvestav.mx">Email</a> · <a href="https://x.com/camitamburrini">Twitter</a>
     </div>
