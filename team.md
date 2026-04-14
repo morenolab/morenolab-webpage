@@ -180,8 +180,9 @@ I am the Lab Manager at the Moreno Lab, overseeing coordination and day-to-day o
       <h2>Marisol Naydú Espitia Fajardo</h2>
     </div>
     <div class="member-bio">
-      I am a biologist specializing in the genetic diversity and population structure of indigenous communities. I develop and apply high-resolution bioinformatics tools to perform demographic inference and whole-genome analysis for underrepresented populations.
-      <br><br>
+    I am a biologist with a Master's and Doctorate in Biological Sciences from Universidad del Valle, Colombia, specializing in population genetics and human genomic diversity. My research has focused on genetic diversity and population structure in Colombian indigenous communities, exploring their demographic dynamics and evolutionary relationships with other Amerindian populations.
+    Currently, I am a postdoctoral researcher in Dr. Moreno's lab, where I apply bioinformatics and genomic tools — including whole genome analysis and demographic inference — to study human diversity across Latin America, with a commitment to representing historically underrepresented populations.
+<br><br>
       <a href="mailto:marisol.espitia@cinvestav.mx">Email</a> · <a href="https://x.com/Marisolbiologie">Twitter</a>
     </div>
   </div>
