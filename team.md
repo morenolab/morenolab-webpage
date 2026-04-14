@@ -142,7 +142,7 @@ I am the Lab Manager at the Moreno Lab, overseeing coordination and day-to-day o
       <h2>Edder Daniel Bustos Diaz</h2>
     </div>
     <div class="member-bio">
-      I manage the lab's IT infrastructure, the Kexol HPC cluster, and sequencing experiments. My current work focuses on data management and assemblies for the Latin Pangenome project.
+      I have a scientific interest in multiple things, but the PacBio and Illumina of it (pun intended) is that I am passionate about everything sequencing related, IT infrastructure and running experiments. I am currently working on the Latin Pangenome project, managing data and working with assemblies. I am in charge of Kexol, our HPC cluster, some of the lab's websites and general IT/wet lab stuff, working alongside Flor, the lab manager, to make sure that bits and tips are working as intended.
       <br><br>
       <a href="mailto:edder.bustos@cinvestav.mx">Email</a>
     </div>
