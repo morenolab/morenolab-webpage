@@ -155,7 +155,7 @@ I am the Lab Manager at the Moreno Lab, overseeing coordination and day-to-day o
     </div>
     <div class="member-bio">
     I lead Bioinformatics Research for LatinCells, an international initiative funded by the Chan Zuckerberg Initiative. LatinCells aims to map single-cell gene expression diversity across Indigenous and underrepresented populations in Latin America.
-    My current research focuses on the analysis of single-cell RNA sequencing data from Latin American communities. I study how genetic background, particularly Native American ancestry influences immune cell composition and gene expression patterns. By integrating population genetics with single-cell transcriptomics, I aim to better understand how ancestry-related genomic variation shapes cellular phenotypes and immune diversity in the region.
+    My current research focuses on the analysis of single-cell RNA sequencing data from Latin American communities. I study how genetic background, particularly Native American ancestry influences immune cell composition and gene expression patterns.
     <br><br>
       <a href="mailto:jose.corona@cinvestav.mx">Email</a> · <a href="https://x.com/JAntonioCorona">Twitter</a>
     </div>
