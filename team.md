@@ -167,8 +167,9 @@ I am the Lab Manager at the Moreno Lab, overseeing coordination and day-to-day o
       <h2>Diego Hartasánchez</h2>
     </div>
     <div class="member-bio">
-      I am a physicist turned evolutionary biologist focused on modeling evolutionary phenomena and analyzing comparative genomic data. My work contributes to understanding the evolutionary history and diversity of Latin American populations.
-      <br><br>
+    I am a physicist-turned-evolutionary biologist with a PhD from Universitat Pompeu Fabra, and postdoctoral experience across France and Switzerland. My research spans evolutionary modeling, comparative genomics, and computer simulations, covering topics from recombination evolution to flower morphogenesis to structural variation in clownfish.
+    Now back in my home city, I join the Human Evolutionary Population Genomics Group, where I will contribute to understanding the evolutionary history and diversity of Latin American populations.
+    <br><br>
       <a href="mailto:diegoharta@gmail.com">Email</a> · <a href="https://scholar.google.com/citations?user=qztY5fAAAAAJ&hl=en">Google Scholar</a>
     </div>
   </div>
