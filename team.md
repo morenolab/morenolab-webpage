@@ -289,6 +289,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
     </div>
     I am a genomic biotechnologist interested in transcriptomics, gene regulation, and systems biology, integrating both bioinformatics and wet-lab approaches. For my PhD project, I study immune cell variation in Indigenous Latin American populations by combining single-cell transcriptomics, population genomics, and computational modeling. Through these approaches, I aim to characterize how genetic background influences gene expression programs and immune responses. 
       <br><br>
+      <a href="mailto:ram.gonzalez@cinvestav.mx">Email</a> · <a href="https://twitter.com/ramgonzalezb">Twitter</a>
       <a href="mailto:octavio.zambadam@cinvestav.mx">Email</a> · <a href="https://x.com/Octavirus23">Twitter</a>
     </div>
   </div>
