@@ -113,7 +113,7 @@ I am a medical doctor and population geneticist whose work integrates genomics, 
   <h2 style="margin: 0; border-bottom: none;">Flor Montes de Oca</h2>
 </div>
 
-I am the Lab Manager at the Moreno Lab, overseeing coordination and day-to-day operations to ensure smooth research development. I hold a Master’s degree in Human Rights and bring over 20 years of project management and institutional coordination experience across government and international organizations.
+I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations, and the day-to-day functioning of the lab to support research and collaborative projects. I bring over 20 years of experience in project management, institutional coordination, and international cooperation, with a strong background in human rights, gender, and public policy. I hold a Master's in Human Rights, a specialization in Gender and Law, and undergraduate degrees in Law and International Relations, with previous roles at institutions including the CNDH, Inmujeres, and Mexico's Ministry of Foreign Affairs.
 
 [Email](mailto:popgenlab@cinvestav.mx)
 
@@ -227,7 +227,7 @@ I am the Lab Manager at the Moreno Lab, overseeing coordination and day-to-day o
       <h2>Maria Fernanda Elias Navarro</h2>
     </div>
     <div class="member-bio">
-      My research integrates paleogenomics and archaeology to explore the histories of past populations. I specifically focus on ancient DNA recovered from skeletal remains at Teotihuacan to understand social organization and diversity.
+      I am a biologist interested in the evolution of species and population genomics. During my PhD, I have been primarily working with ancient DNA. My research brings together paleogenomics and archaeology to explore the histories of past populations through ancient DNA recovered from skeletal remains, with a particular focus on Teotihuacan, one of the most influential political, economic, and cultural centers of ancient Mesoamerica. By investigating genetic affinities, biological sex, and kinship, I aim to better understand social organization, mobility, and population diversity, contributing to a deeper reconstruction of Mexico’s past.
       <br><br>
       <a href="mailto:maria.eliasn@cinvestav.mx">Email</a> · <a href="https://x.com/fherelias04">Twitter</a>
     </div>
@@ -239,7 +239,8 @@ I am the Lab Manager at the Moreno Lab, overseeing coordination and day-to-day o
       <h2>Aarón E. Jaime</h2>
     </div>
     <div class="member-bio">
-      I am interested in computational human genomics. My current research uses long-read sequencing kinetics to describe novel ageing-associated DNA methylation patterns in Latin American populations for the LatinGenomes project.
+      I'm a first year PhD student interested in computational human genomics. During my master's I contributed bioinformatically to map an immune atlas using single-cell transcriptomics (LatinCells). However, I have also been involved in microbiome and science outreach projects. Since 2023. I’ve been an active member of RSG-México (ISCB), a platform that brings people closer to computational biology, enabling them to use it as a tool for work and communication. Currently, my research focuses on describing novel ageing-associated DNA methylation patterns in Latin American populations using long-read sequencing kinetics (LatinGenomes). 
+
       <br><br>
       <a href="mailto:aaron.espinosa@cinvestav.mx">Email</a>
     </div>
@@ -251,7 +252,7 @@ I am the Lab Manager at the Moreno Lab, overseeing coordination and day-to-day o
       <h2>Ram González Buenfil</h2>
     </div>
     <div class="member-bio">
-      I am a computational biologist working at the intersection of population genomics and evolutionary theory. My research investigates how natural selection, admixture, and local adaptation have shaped populations in Latin America and Oceania.
+      I am a computational biologist with a strong interest in genetics and evolution. My research focuses on understanding how natural selection has shaped human populations from Latin America and Oceania. I work at the intersection of population genomics, evolutionary theory, anthropology, and data science, with a particular emphasis on genetic diversity, admixture, and local adaptation.
       <br><br>
       <a href="mailto:ram.gonzalez@cinvestav.mx">Email</a> · <a href="https://twitter.com/ramgonzalezb">Twitter</a>
     </div>
@@ -263,7 +264,7 @@ I am the Lab Manager at the Moreno Lab, overseeing coordination and day-to-day o
       <h2>Santiago Medina</h2>
     </div>
     <div class="member-bio">
-      I am a computational biologist focused on evolutionary genetics. My research aims to understand population history and migration dynamics in Indigenous populations from Mexico.
+    I am a computational biologist with a degree in Agro-genomic Sciences at UNAM. My research passion lies in evolutionary genetics, with a focus on understanding population history and migration dynamics in Indigenous populations from Mexico.
       <br><br>
       <a href="mailto:santiago.medina@cinvestav.mx">Email</a> · <a href="https://scholar.google.com/citations?user=XW3Sz1kAAAAK&hl=es&oi=ao">Google Scholar</a>
     </div>
@@ -275,7 +276,7 @@ I am the Lab Manager at the Moreno Lab, overseeing coordination and day-to-day o
       <h2>Daniela Orozco</h2>
     </div>
     <div class="member-bio">
-      My ancient DNA research focuses on the genetic history of elite individuals buried at the Cañada de la Virgen archaeological site in Mexico. I specialize in turning complex data into clear stories through maps and data visualization.
+     I am currently finishing my PhD in ancient DNA research. I studied Genomic Sciences at UNAM, where I first developed my long-standing fascination with evolution. My current project focuses on Cañada de la Virgen, an archaeological site in Mexico, where I study the genetic history of elite individuals buried there. In the lab, I love turning complex data into clear stories through maps and plots—data visualization is definitely my happy place.
       <br><br>
       <a href="mailto:daniela.orozco@cinvestav.mx">Email</a>
     </div>
@@ -286,8 +287,7 @@ I am the Lab Manager at the Moreno Lab, overseeing coordination and day-to-day o
       <img src="/assets/images/team/Octavio.png" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
       <h2>Octavio Zambada Moreno</h2>
     </div>
-    <div class="member-bio">
-      I am a genomic biotechnologist characterizing immune cell variation in Indigenous Latin American populations. I combine single-cell transcriptomics, population genomics, and computational modeling to see how genetic background influences immune responses.
+    I am a genomic biotechnologist interested in transcriptomics, gene regulation, and systems biology, integrating both bioinformatics and wet-lab approaches. Integrating multi-omics data to better understand and explain complex biological systems is something I am passionate about. For my PhD project, I study immune cell variation in Indigenous Latin American populations by combining single-cell transcriptomics, population genomics, and computational modeling. Through these approaches, I aim to characterize how genetic background influences gene expression programs and immune responses. 
       <br><br>
       <a href="mailto:octavio.zambadam@cinvestav.mx">Email</a> · <a href="https://x.com/Octavirus23">Twitter</a>
     </div>
