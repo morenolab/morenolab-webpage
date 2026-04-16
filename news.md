@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "In the news"
+title: "News"
 description: ""
 feature_image: "/assets/images/news_banner.png"
 order: 4
