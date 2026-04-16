@@ -29,9 +29,8 @@ order: 4
   }
 </style>
 
-
 |:---|:---|
-| **2026** | **MexVar paper published in Nature Medicine**: Check out the full details on our [Publications](/publications) page.|
+| **2026** | **Student Graduation**: Carmina Barberena successfully defended her PhD thesis. Congratulations! <br> **MexVar paper published in Nature Medicine**: Check out the full details on our [Publications](/publications) page. |
 | **2025** | **Genomic Sciences Impact**: MorenoLab continues to expand its impact in genomic sciences across Latin America, participating in international collaborations and training the next generation of scientists. <br> **Video**: [MorenoLab 2025 Impact](https://www.youtube.com/watch?v=vxcVBJtK0k8). |
 | **2024** | **PAHO Brasilia**: Dr. Andrés Moreno was a representative leader from Mexico at the Regional Meeting for equitable generation of human genomic research. <br> **Student Achievement**: PhD student Santiago Medina participated in the 10th Anniversary of the Agrogenomics Science Degree at UNAM. <br> **MX Biobank**: The flagship paper is now available in Spanish: *El Biobanco Mexicano avanza la genómica médica*. |
 | **2023** | **Nature Cover**: The Mexican Biobank paper was published and featured on the cover of *Nature*. Check out the full details on our [Publications](/publications) page. <br> **SMBE Ferrara**: Lab members presented invited talks and posters at the SMBE2023 conference in Italy. <br> **Polynesian Research**: Interview with Stefan Milo regarding Polynesians reaching America (Ioannidis et al. 2021). <br> **Podcast**: Dr. Moreno featured on "De Chícharos y Habas" regarding the Manila Galleon and Asian legacy in Mexico. <br> **AABA Meeting**: Daniela Orozco presented paleogenomic insights from the archaeological zone of Cañada de la Virgen. |
