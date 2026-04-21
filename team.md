@@ -332,7 +332,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
 ---
 
-## Data Scientist
+## Data Science Staff
 
 <div class="team-section">
 <div class="team-grid team-grid--centered">
