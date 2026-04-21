@@ -356,7 +356,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
 ## Collaborators
 
-- Karla Sandoval — [CINVESTAV]
+- Karla Sandoval — [CINVESTAV](https://www.cinvestav.mx/)
 - Cei Abreu — [University of Edinburgh](https://cei.bio.ed.ac.uk/)
 - Selene Fernández Valverde — [UNSW Sydney](https://research.unsw.edu.au/people/dr-selene-fernandez-valverde)
 - María Ávila Arcos — [LIIGH](http://www.liigh.unam.mx/mavila)
