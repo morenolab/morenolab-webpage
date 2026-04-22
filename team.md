@@ -2,7 +2,7 @@
 layout: page
 title: ""
 description: "CINVESTAV Sede Sur, Mexico"
-feature_image: "/assets/images/team/portada2026.wepbp"
+feature_image: "/assets/images/team/portada2026.webp"
 order: 2
 ---
 
@@ -97,7 +97,7 @@ order: 2
 ## Principal Investigator
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; margin-top: 40px;">
-  <img src="/assets/images/team/Andres_Moreno.wepbp" alt="Andrés Moreno Estrada" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-right: 25px; margin-bottom: 0;">
+  <img src="/assets/images/team/Andres_Moreno.webp" alt="Andrés Moreno Estrada" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-right: 25px; margin-bottom: 0;">
   <h2 style="margin: 0; border-bottom: none;">Andrés Moreno Estrada</h2>
 </div>
 
@@ -109,7 +109,7 @@ I am a medical doctor and population geneticist whose work integrates genomics, 
 ## Laboratory Manager
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; margin-top: 40px;">
-  <img src="/assets/images/team/Flor.wepbp" alt="Flor Montes de Oca" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-right: 25px; margin-bottom: 0;">
+  <img src="/assets/images/team/Flor.webp" alt="Flor Montes de Oca" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-right: 25px; margin-bottom: 0;">
   <h2 style="margin: 0; border-bottom: none;">Flor Montes de Oca</h2>
 </div>
 
@@ -126,7 +126,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
   <div class="member-card">
     <div class="member-header">
-      <img src="/assets/images/team/Carmina.wepbp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <img src="/assets/images/team/Carmina.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
       <h2>Carmina Barberena-Jonas</h2>
     </div>
     <div class="member-bio">
@@ -138,7 +138,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
   <div class="member-card">
     <div class="member-header">
-      <img src="/assets/images/team/Daniel.wepbp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <img src="/assets/images/team/Daniel.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
       <h2>Edder Daniel Bustos Diaz</h2>
     </div>
     <div class="member-bio">
@@ -150,7 +150,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
   <div class="member-card">
     <div class="member-header">
-      <img src="/assets/images/team/Josian.wepbp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <img src="/assets/images/team/Josian.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
       <h2>José Antonio Corona-Gomez (Josian)</h2>
     </div>
     <div class="member-bio">
@@ -163,7 +163,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
   <div class="member-card">
     <div class="member-header">
-      <img src="/assets/images/team/Diego.wepbp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <img src="/assets/images/team/Diego.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
       <h2>Diego Hartasánchez</h2>
     </div>
     <div class="member-bio">
@@ -176,7 +176,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
   <div class="member-card">
     <div class="member-header">
-      <img src="/assets/images/team/Marisol.wepbp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <img src="/assets/images/team/Marisol.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
       <h2>Marisol Naydú Espitia Fajardo</h2>
     </div>
     <div class="member-bio">
@@ -189,7 +189,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
   <div class="member-card">
     <div class="member-header">
-      <img src="/assets/images/team/Consuelo.wepbp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <img src="/assets/images/team/Consuelo.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
       <h2>Consuelo Dayzú Quinto Cortés</h2>
     </div>
     <div class="member-bio">
@@ -201,7 +201,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
   <div class="member-card">
     <div class="member-header">
-      <img src="/assets/images/team/Camila.wepbp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <img src="/assets/images/team/Camila.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
       <h2>Camila Tamburrini</h2>
     </div>
     <div class="member-bio">
@@ -223,7 +223,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
   <div class="member-card">
     <div class="member-header">
-      <img src="/assets/images/team/Fernanda.wepbp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <img src="/assets/images/team/Fernanda.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
       <h2>Maria Fernanda Elias Navarro</h2>
     </div>
     <div class="member-bio">
@@ -235,7 +235,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
   <div class="member-card">
     <div class="member-header">
-      <img src="/assets/images/team/Aaron.wepbp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <img src="/assets/images/team/Aaron.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
       <h2>Aarón E. Jaime</h2>
     </div>
     <div class="member-bio">
@@ -248,7 +248,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
   <div class="member-card">
     <div class="member-header">
-      <img src="/assets/images/team/Ram.wepbp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <img src="/assets/images/team/Ram.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
       <h2>Ram González Buenfil</h2>
     </div>
     <div class="member-bio">
@@ -260,7 +260,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
   <div class="member-card">
     <div class="member-header">
-      <img src="/assets/images/team/Santiago.wepbp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <img src="/assets/images/team/Santiago.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
       <h2>Santiago Medina</h2>
     </div>
     <div class="member-bio">
@@ -272,7 +272,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
   <div class="member-card">
     <div class="member-header">
-      <img src="/assets/images/team/Daniela.wepbp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <img src="/assets/images/team/Daniela.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
       <h2>Daniela Orozco</h2>
     </div>
     <div class="member-bio">
@@ -284,7 +284,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
 <div class="member-card">
     <div class="member-header">
-      <img src="/assets/images/team/Octavio.wepbp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <img src="/assets/images/team/Octavio.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
       <h2>Octavio Zambada Moreno</h2>
     </div>
     <div class="member-bio">
@@ -305,7 +305,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
   <div class="member-card">
     <div class="member-header">
-      <img src="/assets/images/team/Yuberlis.wepbp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <img src="/assets/images/team/Yuberlis.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
       <h2>Yuberlis González Ipuana</h2>
     </div>
     <div class="member-bio">
@@ -317,7 +317,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
   <div class="member-card">
     <div class="member-header">
-      <img src="/assets/images/team/Ricardo_Rodriguez.wepbp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <img src="/assets/images/team/Ricardo_Rodriguez.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
       <h2>Ricardo Rodríguez Ojeda</h2>
     </div>
     <div class="member-bio">
@@ -339,7 +339,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
   <div class="member-card">
     <div class="member-header">
-      <img src="/assets/images/team/Vianka.wepbp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <img src="/assets/images/team/Vianka.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
       <h2>Viankail Cedillo Castelán</h2>
     </div>
     <div class="member-bio">
