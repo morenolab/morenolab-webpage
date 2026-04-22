@@ -130,13 +130,6 @@ order: 5
       </tr>
       <tr>
         <td>2025</td>
-        <td>Struck TJ,..., <b>Moreno-Estrada A</b>, et al.</td>
-        <td><i>Mol Biol Evol</i></td>
-        <td>GHIST 2024: The First Genomic History Inference Strategies Tournament</td>
-        <td><a href="https://doi.org/10.1093/molbev/msaf257">DOI</a></td>
-      </tr>
-      <tr>
-        <td>2025</td>
         <td>Possik PA,..., <b>Moreno-Estrada A</b>, et al.</td>
         <td><i>Cell</i></td>
         <td>Exploring Latin America one cell at a time</td>
