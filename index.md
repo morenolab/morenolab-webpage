@@ -2,7 +2,7 @@
 layout: page
 permalink: /
 description: Human Evolutionary and Population Genomics
-image: /assets/images/home_banner.png
+image: /assets/images/home_banner.webp
 ---
 
 <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;">
