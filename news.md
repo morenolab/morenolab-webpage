@@ -2,7 +2,7 @@
 layout: page
 title: "News"
 description: ""
-feature_image: "/assets/images/news_banner.png"
+feature_image: "/assets/images/news_banner.webp"
 order: 4
 ---
 

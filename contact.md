@@ -2,7 +2,7 @@
 layout: page
 title: "Contact"
 description: ""
-feature_image: "/assets/images/contact_banner.png"
+feature_image: "/assets/images/contact_banner.webp"
 order: 7
 ---
 
