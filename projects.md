@@ -2,7 +2,7 @@
 layout: page
 title: ""
 description: "CINVESTAV Sede Sur, Mexico"
-feature_image: "/assets/images/projects_banner.png"
+feature_image: "/assets/images/projects_banner.webp"
 order: 3
 ---
 
