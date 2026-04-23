@@ -93,10 +93,10 @@ For general questions or partnership proposals, please use the form below or con
 
 <form action="https://formspree.io/f/xojkjzpo" method="POST" class="contact-form">
   <label for="full-name">Full Name</label>
-  <input type="text" name="name" id="full-name" placeholder="Dr. Maria Hernández Hernández." required>
+  <input type="text" name="name" id="full-name" placeholder="your name" required>
 
   <label for="email-address">Email Address</label>
-  <input type="email" name="_replyto" id="email-address" placeholder="email@institution.edu" required>
+  <input type="email" name="_replyto" id="email-address" placeholder="email@example.com" required>
 
   <label for="subject">Inquiry Type</label>
   <select name="subject" id="subject">
