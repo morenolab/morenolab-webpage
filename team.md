@@ -335,7 +335,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 ## Data Science Staff
 
 <div class="team-section">
-<div class="team-grid team-grid--centered">
+<div class="team-grid team-grid--two">
 
   <div class="member-card">
     <div class="member-header">
@@ -344,6 +344,18 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
     </div>
     <div class="member-bio">
     I work on developing interactive Shiny applications and an AI-powered virtual assistant to explore population-genetic data, with a particular interest in underrepresented populations. I really enjoy data visualization, UX-oriented design, and finding ways to translate advanced computational methods into tools that researchers and clinicians can actually use.
+      <br><br>
+      <a href="mailto:viancastelan.edu@gmail.com">Email</a>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="member-header">
+      <img src="/assets/images/team/Luis.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <h2>Luis Martinez</h2>
+    </div>
+    <div class="member-bio">
+    I am a biomedical engineer with a master's degree in bioengineering and computing, specializing in the analysis of multimodal datasets. My work focuses on machine learning and deep learning models applied to biosignals, genetic data, and medical images, as well as LLM and NLP approaches for text processing. I am currently developing a model that predicts gene expression from genotype data across different cell types, using single-cell RNA-seq data from Latin American subjects.
       <br><br>
       <a href="mailto:viancastelan.edu@gmail.com">Email</a>
     </div>
