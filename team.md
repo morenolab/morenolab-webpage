@@ -357,7 +357,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
     <div class="member-bio">
     I am a biomedical engineer with a master's degree in bioengineering and computing, specializing in the analysis of multimodal datasets. My work focuses on machine learning and deep learning models applied to biosignals, genetic data, and medical images, as well as LLM and NLP approaches for text processing. I am currently developing a model that predicts gene expression from genotype data across different cell types, using single-cell RNA-seq data from Latin American subjects.
       <br><br>
-      <a href="mailto:viancastelan.edu@gmail.com">Email</a>
+      <a href="mailto:luiscleo96@hotmail.com">Email</a>
     </div>
   </div>
 
