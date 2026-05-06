@@ -138,6 +138,18 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
   <div class="member-card">
     <div class="member-header">
+      <img src="/assets/images/team/Javier.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <h2>Javier Blanco</h2>
+    </div>
+    <div class="member-bio">
+    I received my BSc in Genomic Sciences from UNAM and my MSc in Integrative Biology from LANGEBIO, where I worked with Prof. Andrés Moreno Estrada on population genetics of admixed human populations across the Americas and the Pacific. I completed my PhD in Biology at Stanford University in 2026, advised by Marcus Feldman and Alexander Ioannidis, as a Stanford Interdisciplinary Graduate Fellow. My research uses ancestry deconvolution and machine learning approaches to reconstruct human migration history, with a focus on the settlement of the Pacific. My current work studies founding demographics and natural selection in Hawaiʻi and gene-culture coevolution across Austronesia, integrating genetic, linguistic, and cultural datasets.
+    <br><br>
+      <a href="javier.blanco.93@gmail.com">Email</a>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="member-header">
       <img src="/assets/images/team/Daniel.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
       <h2>Edder Daniel Bustos Diaz</h2>
     </div>
