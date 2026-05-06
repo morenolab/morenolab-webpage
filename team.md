@@ -142,7 +142,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
       <h2>Javier Blanco</h2>
     </div>
     <div class="member-bio">
-    I received my BSc in Genomic Sciences from UNAM and my MSc in Integrative Biology from LANGEBIO, where I worked with Prof. Andrés Moreno Estrada on population genetics of admixed human populations across the Americas and the Pacific. I completed my PhD in Biology at Stanford University in 2026, advised by Marcus Feldman and Alexander Ioannidis, as a Stanford Interdisciplinary Graduate Fellow. My research uses ancestry deconvolution and machine learning approaches to reconstruct human migration history, with a focus on the settlement of the Pacific. My current work studies founding demographics and natural selection in Hawaiʻi and gene-culture coevolution across Austronesia, integrating genetic, linguistic, and cultural datasets.
+    I hold a BSc in Genomic Sciences from UNAM, an MSc in Integrative Biology from LANGEBIO, and a PhD in Biology from Stanford University (2026). As a Stanford Interdisciplinary Graduate Fellow advised by Marcus Feldman and Alexander Ioannidis, my research applies machine learning and ancestry deconvolution to reconstruct human migration. By integrating genetic, linguistic, and cultural data, my current work focuses on gene-culture coevolution and founding demographics across the Pacific and Hawaiʻi.
     <br><br>
       <a href="javier.blanco.93@gmail.com">Email</a>
     </div>
