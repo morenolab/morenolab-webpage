@@ -108,18 +108,18 @@ order: 5
     </thead>
     <tbody>
       <tr>
+      <tr>
+        <td>2026</td>
+        <td><b>Espinosa-Jaime A</b>, <b>Zambada-Moreno O</b>, <b>Corona-Gomez JA</b>,..., <b>Moreno-Estrada A</b> and Ortiz-Ramírez C</td>
+        <td><i>iScience</i></td>
+        <td>SiteCELL enables on-site PBMCs purification and cryopreservation for immune single cell profiling of diverse ancestries</td>
+        <td><a href="https://doi.org/10.1016/j.isci.2026.115961">DOI</a></td>
+      </tr>
         <td>2026</td>
         <td><b>Barberena-Jonas C</b>, <b>Medina-Muñoz SG</b>, <b>Cedillo-Castelán V</b>,..., <b>Moreno-Estrada A</b></td>
         <td><i>Nature Medicine</i></td>
         <td>Clinical genetic variation across Hispanic populations in the Mexican Biobank</td>
         <td><a href="https://doi.org/10.1038/s41591-025-04100-z">DOI</a></td>
-      </tr>
-      <tr>
-        <td>2025</td>
-        <td><b>Espinosa-Jaime A</b>, <b>Zambada-Moreno O</b>, <b>Corona-Gomez JA</b>,..., <b>Moreno-Estrada A</b> and Ortiz-Ramírez C</td>
-        <td><i>bioRxiv</i></td>
-        <td>SiteCELL enables on-site PBMCs purification and cryopreservation for immune single cell profiling of diverse ancestries</td>
-        <td><a href="https://doi.org/10.1101/2025.09.30.679317">DOI</a></td>
       </tr>
       <tr>
         <td>2025</td>
