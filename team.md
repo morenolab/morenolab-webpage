@@ -344,6 +344,64 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
 ---
 
+## Undergraduate Students from the Genomic Sciences Program at UNAM
+
+<div class="team-section">
+<div class="team-grid team-grid--two">
+
+  <div class="member-card">
+    <div class="member-header">
+      <img src="/assets/images/team/Nath.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <h2>Nath Ordoñez-Guzmán</h2>
+    </div>
+    <div class="member-bio">
+      I am an undergraduate student completing the final year of my bachelor's. I have experience with Linux/Bash, Python, and R. My background includes working with genomic sequences, genome assembly, functional annotation, gene expression, and bioinformatic pipelines. Currently, my research focuses on biomedical genomics in Mexican cohorts. I am deeply interested in analyzing serological data to understand the immunological response to different pathogens and its relationship with genomic variation. I have plans to pursue advanced research in population genetics.
+      <br><br>
+      <a href="mailto:erikaog@lcg.unam.mx">Email</a>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="member-header">
+      <img src="/assets/images/team/Santiago_Orozco.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <h2>Santiago Orozco-Barrera</h2>
+    </div>
+    <div class="member-bio">
+      I am an undergraduate student currently working on single-cell transcriptomics within the LatinCells project. In parallel, I contribute to the analysis of DNA methylation in Latin American populations. My interests are oriented in epigenomic and transcriptomic regulation. I'm passionate about understanding how different omics technologies complement each other to grant a wider image of the cell. In early steps, through molecular biology techniques, I studied lncRNAs implicated in human stress mechanisms. I have a great appetite for learning and developing new skills!
+      <br><br>
+      <a href="mailto:santiago@lcg.unam.mx">Email</a>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="member-header">
+      <img src="/assets/images/team/Gabriel.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <h2>Gabriel Ramírez-Vilchis</h2>
+    </div>
+    <div class="member-bio">
+      I am an undergraduate student currently in the final year of my degree. My current research focuses on the single-cell characterization of immune cells in Colombian populations. My main interests include immunology, population genomics, and single-cell transcriptomics. Previously, I have participated in research projects focused on erythroid differentiation and Alzheimer's disease. I am passionate about learning new things and answering biological questions through the analysis of genomic data.
+      <br><br>
+      <a href="mailto:gramirez@lcg.unam.mx">Email</a> · <a href="https://gabrielramirezv.github.io/">Website</a> · <a href="https://scholar.google.com/citations?user=QNL28csAAAAJ&hl=en">Google Scholar</a> · <a href="https://x.com/GabrielRamV">Twitter</a> · <a href="https://bsky.app/profile/gabrielramirezv.bsky.social">Bluesky</a>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="member-header">
+      <img src="/assets/images/team/Armando.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <h2>Armando G. G. Trapaga</h2>
+    </div>
+    <div class="member-bio">
+      I'm an undergraduate student. I'm passionate about studying population history through population and evolutionary genetics. My current work focuses on admixture processes in South America while I continue to improve my bioinformatics and research skills. Outside the lab, I enjoy anime, video games and spending time with my friends whenever possible.
+      <br><br>
+      <a href="mailto:aggonzal@lcg.unam.mx">Email</a>
+    </div>
+  </div>
+
+</div>
+</div>
+
+---
+
 ## Data Science Staff
 
 <div class="team-section">
