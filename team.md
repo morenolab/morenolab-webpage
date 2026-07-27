@@ -381,7 +381,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
     <div class="member-bio">
       I am an undergraduate student currently in the final year of my degree. My current research focuses on the single-cell characterization of immune cells in Colombian populations. My main interests include immunology, population genomics, and single-cell transcriptomics. Previously, I have participated in research projects focused on erythroid differentiation and Alzheimer's disease. I am passionate about learning new things and answering biological questions through the analysis of genomic data.
       <br><br>
-      <a href="mailto:gramirez@lcg.unam.mx">Email</a> · <a href="https://gabrielramirezv.github.io/">Website</a> · <a href="https://scholar.google.com/citations?user=QNL28csAAAAJ&hl=en">Google Scholar</a> · <a href="https://x.com/GabrielRamV">Twitter</a> · <a href="https://bsky.app/profile/gabrielramirezv.bsky.social">Bluesky</a>
+      <a href="mailto:gramirez@lcg.unam.mx">Email</a> · <a href="https://scholar.google.com/citations?user=QNL28csAAAAJ&hl=en">Google Scholar</a> · <a href="https://x.com/GabrielRamV">Twitter</a> · <a href="https://bsky.app/profile/gabrielramirezv.bsky.social">Bluesky</a>
     </div>
   </div>
 
