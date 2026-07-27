@@ -344,7 +344,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
 ---
 
-## Undergraduate Students from the Genomic Sciences Program at UNAM
+## Undergraduate Students - Genomic Sciences Program, UNAM
 
 <div class="team-section">
 <div class="team-grid team-grid--two">
