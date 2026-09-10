@@ -482,7 +482,7 @@ order: 5
         <td>2014</td>
         <td><b>Moreno-Estrada A</b>,..., <b>Sandoval K</b>, et al.</td>
         <td><i>Science</i></td>
-        <td>Human genetics. The genetics of Mexico recapitulates Native American substructure and affects biomedical traits</td>
+        <td>The genetics of Mexico recapitulates Native American substructure and affects biomedical traits</td>
         <td><a href="https://doi.org/10.1126/science.1251688">DOI</a></td>
       </tr>
       <tr>
