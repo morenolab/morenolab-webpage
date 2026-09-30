@@ -150,6 +150,18 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
   <div class="member-card">
     <div class="member-header">
+      <img src="/assets/images/team/Ram.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <h2>Ram González Buenfil</h2>
+    </div>
+    <div class="member-bio">
+      I am a computational biologist with a strong interest in genetics and evolution. My research focuses on understanding how natural selection has shaped human populations from Latin America and Oceania. I work at the intersection of population genomics, evolutionary theory, anthropology, and data science, with a particular emphasis on genetic diversity, admixture, and local adaptation.
+      <br><br>
+      <a href="mailto:ram.gonzalez@cinvestav.mx">Email</a> · <a href="https://twitter.com/ramgonzalezb">Twitter</a>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="member-header">
       <img src="/assets/images/team/Daniel.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
       <h2>Edder Daniel Bustos Diaz</h2>
     </div>
@@ -255,18 +267,6 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
       <br><br>
       <a href="mailto:aaron.espinosa@cinvestav.mx">Email</a>
-    </div>
-  </div>
-
-  <div class="member-card">
-    <div class="member-header">
-      <img src="/assets/images/team/Ram.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
-      <h2>Ram González Buenfil</h2>
-    </div>
-    <div class="member-bio">
-      I am a computational biologist with a strong interest in genetics and evolution. My research focuses on understanding how natural selection has shaped human populations from Latin America and Oceania. I work at the intersection of population genomics, evolutionary theory, anthropology, and data science, with a particular emphasis on genetic diversity, admixture, and local adaptation.
-      <br><br>
-      <a href="mailto:ram.gonzalez@cinvestav.mx">Email</a> · <a href="https://twitter.com/ramgonzalezb">Twitter</a>
     </div>
   </div>
 
