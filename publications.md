@@ -108,18 +108,20 @@ order: 5
     </thead>
     <tbody>
       <tr>
-      <td>2026</td>
-        <td><b>Shanks C</b>, ..., <b>Moreno-Estrada A</b>, et al</td>
+        <td>2026</td>
+        <td><b>Shanks C</b>, ..., <b>Moreno-Estrada A</b>, et al.</td>
         <td><i>Science</i></td>
         <td>Message in a bottleneck: Nested founder effects from French Polynesia to Rapa Nui and Hawaiʻi</td>
         <td><a href="https://doi.org/10.1126/science.aec7662">DOI</a></td>
       </tr>
+      <tr>
         <td>2026</td>
         <td><b>Espinosa-Jaime A</b>, <b>Zambada-Moreno O</b>, <b>Corona-Gomez JA</b>,..., <b>Moreno-Estrada A</b> and Ortiz-Ramírez C</td>
         <td><i>iScience</i></td>
         <td>SiteCELL enables on-site PBMCs purification and cryopreservation for immune single cell profiling of diverse ancestries</td>
         <td><a href="https://doi.org/10.1016/j.isci.2026.115961">DOI</a></td>
       </tr>
+      <tr>
         <td>2026</td>
         <td><b>Barberena-Jonas C</b>, <b>Medina-Muñoz SG</b>, <b>Cedillo-Castelán V</b>,..., <b>Moreno-Estrada A</b></td>
         <td><i>Nature Medicine</i></td>
@@ -163,7 +165,7 @@ order: 5
       </tr>
       <tr>
         <td>2025</td>
-        <td>Lin M,..., <b>Nigenda-Morales SF</b>, Beichman AC,<b>Nuñez-Valencia PG</b>,..., <b>Moreno-Estrada A</b>, et al.</td>
+        <td>Lin M,..., <b>Nigenda-Morales SF</b>, Beichman AC, <b>Nuñez-Valencia PG</b>,..., <b>Moreno-Estrada A</b>, et al.</td>
         <td><i>bioRxiv</i></td>
         <td>The distribution of fitness effects varies phylogenetically across animals</td>
         <td><a href="https://doi.org/10.1101/2025.05.13.653358">DOI</a></td>
@@ -219,14 +221,14 @@ order: 5
       </tr>
       <tr>
         <td>2023</td>
-        <td><b>Sohail M</b>, <b>Palma-Martínez MJ</b>, Chong AY, <b>Quinto-Cortés CD</b>, <b>Barberena-Jonas C</b>, <b>Medina-Muñoz SG</b>, <b>Ragsdale A</b>,..., <b>Moreno-Estrada A</b>.</td>
+        <td><b>Sohail M</b>, <b>Palma-Martínez MJ</b>, Chong AY, <b>Quinto-Cortés CD</b>, <b>Barberena-Jonas C</b>, <b>Medina-Muñoz SG</b>, <b>Ragsdale AP</b>,..., <b>Moreno-Estrada A</b>.</td>
         <td><i>Nature</i></td>
         <td>Mexican Biobank advances population and medical genomics of diverse ancestries</td>
         <td><a href="https://doi.org/10.1038/s41586-023-06560-0">DOI</a></td>
       </tr>
       <tr>
         <td>2023</td>
-        <td>Beichman AC, Robinson J, Lin M, <b>Moreno-Estrada A</b>, <b>Nigenda-Morales S</b>, Harris K</td>
+        <td>Beichman AC, Robinson J, Lin M, <b>Moreno-Estrada A</b>, <b>Nigenda-Morales SF</b>, Harris K</td>
         <td><i>Mol Biol Evol</i></td>
         <td>Evolution of the Mutation Spectrum Across a Mammalian Phylogeny</td>
         <td><a href="https://doi.org/10.1093/molbev/msad213">DOI</a></td>
@@ -247,9 +249,9 @@ order: 5
       </tr>
       <tr>
         <td>2023</td>
-        <td>Beichman AC, Robinson J, Lin M, <b>Moreno-Estrada A</b>, <b>Nigenda-Morales S</b>, Harris K</td>
+        <td>Beichman AC, Robinson J, Lin M, <b>Moreno-Estrada A</b>, <b>Nigenda-Morales SF</b>, Harris K</td>
         <td><i>bioRxiv</i></td>
-        <td>"Evolution of the mutation spectrum across a mammalian phylogeny"</td>
+        <td>Evolution of the mutation spectrum across a mammalian phylogeny</td>
         <td><a href="https://doi.org/10.1101/2023.05.31.543114">DOI</a></td>
       </tr>
       <tr>
@@ -261,7 +263,7 @@ order: 5
       </tr>
       <tr>
         <td>2023</td>
-        <td>Huerta-Chagoya A,..., <b>Moreno-Estrada A; Mexican Biobank; Aguilar-Salinas CA</b>, et al.</td>
+        <td>Huerta-Chagoya A,..., <b>Moreno-Estrada A</b>; Mexican Biobank; Aguilar-Salinas CA, et al.</td>
         <td><i>Diabetologia</i></td>
         <td>The power of TOPMed imputation for the discovery of Latino-enriched rare variants associated with type 2 diabetes</td>
         <td><a href="https://doi.org/10.1007/s00125-023-05912-9">DOI</a></td>
@@ -317,7 +319,7 @@ order: 5
       </tr>
       <tr>
         <td>2022</td>
-        <td><b>Jiménez-Kaufmann A</b>, Chong AY, Cortés A, <b>Quinto-Cortés CD</b>,..., <b>Medina-Muñoz SG</b>, <b>Sohail M</b>, <b>Palma-Martinez MJ</b>,..., <b>Moreno-Estrada A</b>.</td>
+        <td><b>Jiménez-Kaufmann A</b>, Chong AY, Cortés A, <b>Quinto-Cortés CD</b>,..., <b>Medina-Muñoz SG</b>, <b>Sohail M</b>, <b>Palma-Martínez MJ</b>,..., <b>Moreno-Estrada A</b>.</td>
         <td><i>Front Genet</i></td>
         <td>Imputation Performance in Latin American Populations: Improving Rare Variants Representation With the Inclusion of Native American Genomes</td>
         <td><a href="https://doi.org/10.3389/fgene.2021.719791">DOI</a></td>
