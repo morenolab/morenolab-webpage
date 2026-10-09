@@ -108,8 +108,9 @@ order: 5
     </thead>
     <tbody>
       <tr>
+      <tr>
       <td>2026</td>
-        <td><b>Shanks C</b>, <b>Huang EC</b>, <b>Thomassin C</b> ..., <b>Moreno-Estrada A</b>,et al</td>
+        <td><b>Shanks C</b>, <b>Huang EC</b>, <b>Thomassin C</b> ..., <b>Moreno-Estrada A</b>, et al</td>
         <td><i>Science</i></td>
         <td>Message in a bottleneck: Nested founder effects from French Polynesia to Rapa Nui and Hawaiʻi</td>
         <td><a href="https://doi.org/10.1126/science.aec7662">DOI</a></td>
