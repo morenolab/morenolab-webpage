@@ -447,7 +447,7 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
       <h2>Nadia Anaih Cortez-Granillo</h2>
     </div>
     <div class="member-bio">
-      I am a biologist with an M.Sc. in Integrative Biology from CINVESTAV Irapuato and a B.Sc. in Biology from Universidad de Sonora. My master’s work focused on symbiont transmission and cross-kingdom interactions, combining experimental microbiology with comparative genomics. At the Moreno Lab, I work on the wet-lab side of the Latin American pangenome project: DNA extraction, PacBio library preparation, and long-read sequencing on the PacBio Vega. I am passionate about turning careful bench work into high-quality genomic data.
+      I am a biologist with an M.Sc. in Integrative Biology from CINVESTAV. My master’s work focused on symbiont transmission and cross-kingdom interactions, combining experimental microbiology with comparative genomics. At the Moreno Lab, I work on the wet-lab side of the Latin American Pangenome Project: DNA extraction, PacBio library preparation, and long-read sequencing. I am passionate about turning careful bench work into high-quality genomic data.
       <br><br>
       <a href="https://www.linkedin.com/in/nadia-anaih-cortez-granillo">LinkedIn</a>
     </div>
