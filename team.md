@@ -71,7 +71,7 @@ order: 2
 
   /* Variante: centrado (Data Scientist) */
   .team-grid--centered {
-    grid-template-columns: minmax(0, 400px);
+    grid-template-columns: minmax(0, 650px);
     justify-content: center;
   }
 
