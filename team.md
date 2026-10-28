@@ -436,6 +436,28 @@ I am the Lab Manager at the Moreno Lab, where I oversee coordination, operations
 
 ---
 
+## Lab Technician
+
+<div class="team-section">
+<div class="team-grid team-grid--centered">
+
+  <div class="member-card">
+    <div class="member-header">
+      <img src="/assets/images/team/Nadia.webp" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+      <h2>Nadia Anaih Cortez-Granillo</h2>
+    </div>
+    <div class="member-bio">
+      I am a biologist with an M.Sc. in Integrative Biology from CINVESTAV Irapuato and a B.Sc. in Biology from Universidad de Sonora. During my master’s, I studied the horizontal transmission of symbionts and cross-kingdom interactions, combining experimental microbiology with comparative genomics and phylogenetics. At the Moreno Lab, I am part of the Latin American pangenome project, where I work on the wet-lab side: DNA extraction, PacBio library preparation, and long-read sequencing on the PacBio Vega. I am passionate about molecular biology and about turning careful bench work into high-quality genomic data.
+      <br><br>
+      <a href="https://www.linkedin.com/in/nadia-anaih-cortez-granillo">LinkedIn</a>
+    </div>
+  </div>
+
+</div>
+</div>
+
+---
+
 ## Collaborators
 
 - Karla Sandoval — [CINVESTAV](https://www.cinvestav.mx/)
